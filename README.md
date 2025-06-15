@@ -1,4 +1,5 @@
 # 🩺 Diabetes Prediction Using Decision Tree (PIMA Indian Dataset)
+![Feature Importance](introduction.png)
 
 This project is a machine learning classification model built using a **Decision Tree Classifier** to predict whether a patient has diabetes based on health-related attributes. The dataset used is the popular **PIMA Indian Diabetes dataset**.
 
@@ -56,7 +57,7 @@ The dataset contains the following features:
 - Decision Tree Plot
 ![Loan Status Distribution](tree_image.png)
 - Feature Importance Bar Plot
-![Feature Importance](feature_fig.png)
+![Feature Importance](features_fig.png)
 
 ---
 
