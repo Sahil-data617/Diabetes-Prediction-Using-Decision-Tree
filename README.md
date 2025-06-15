@@ -54,9 +54,9 @@ The dataset contains the following features:
 ## 📊 Visualizations
 
 - Decision Tree Plot
-![Loan Status Distribution](tree.png)
+![Loan Status Distribution](tree_image.png)
 - Feature Importance Bar Plot
-![Feature Importance](feature_importance.png)
+![Feature Importance](feature_fig.png)
 
 ---
 
